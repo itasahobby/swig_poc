@@ -22,3 +22,7 @@ Anagram benchmark:
 c_time=9.163944766001805
 py_time=141.76448946099845
 ```
+
+# References
+
+* http://www.swig.org/Doc1.3/Python.html
